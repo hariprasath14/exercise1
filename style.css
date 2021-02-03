@@ -36,6 +36,7 @@ overflow:hidden;
 
 .navbar .dropbtn{
 background-color:black;
+text-align:;
 color:white;
 border:none;
 font-family:calibri;
@@ -215,6 +216,7 @@ position:relative;
 z-index:4;
 }
 .center p{
+font-size:;
 line-height:1.4rem;
 position:relative;
 z-index:4;
@@ -232,6 +234,7 @@ font-weight:normal;
 margin-bottom:20px;
 }
 .center2 p{
+font-size:;
 line-height:1.4rem;
 }
 
